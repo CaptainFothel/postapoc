@@ -1,4 +1,4 @@
-###ÄNSI
+###Ã„NSI
 amerodeutsch = {
 	graphical_cultures = { westerngfx }
 
@@ -79,46 +79,47 @@ amerodeutsch = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Abraham_Abraham Adalbert Armstrong Alfraed_Alfred Amalrick Adalfuns Adam_Adam Aripert Anthony_Anthony Adalrost
-			Berick Benjamin_Benjamin Burrill Bentley Benzene Bessemer
-			Christian_Christian Christoph_Christohper
-			Daniel_Daniel David_David Dean Dodge Dexter Durant Dorrich
+			Abraham_Abraham Adalbert Armstrong Alfraed_Alfred Amalrick Adalfuns Adam_Adam Aripert Anthony_Anthony Adalrost Astre Alero
+			Berick Benjamin_Benjamin Burrill Bentley Benzene Bessemer Belmont
+			Christian_Christian Christoph_Christopher Cadillac Camaro Caballero_Camino Coronet
+			Daniel_Daniel David_David Dean Dodge Dexter Durant Dorrich Delray
 			Eric Etzel Eurich Edward_Edward Edmund Eugene_Eugene Erwin Elwood Edgar Eisenwulf Eisenrich Eisenslaus
-			Frederich_Frederick Filadelph Florent Ferdinand_Ferdinand Franjo
+			Frederich_Frederick Filadelph Florent Ferdinand_Ferdinand Franjo Ford Fiero
 			Gilberht_Gilbert Georg_George Gottfrid Gerolt Gordon Gelbin
-			Hugo Hammo Henrich_Henry Hudson Harley
+			Hugo Hammo Henrich_Henry Hudson Harley Hummer
 			Isaac_Isaac
-			Johannes_John Jakob_Jacob Justin_Justin Julian_Julian Jerome Jagiel
+			Johannes_John Jakob_Jacob Justin_Justin Julian_Julian Jerome Jagiel Jeep
 			Karles_Charles Keifer Kasimir
-			Lawrenz Ludewis Lumen Leonard Ladislaus
-			Michael_Michael Morits Martin_Martin Marklin Miles Maynard Marshall
+			Lawrenz Ludewis Lumen Leonard Ladislaus Lincoln
+			Michael_Michael Morits Martin_Martin Marklin Miles Maynard Marshall Mustang "Monte Carlo"
 			Nicholaus_Nicholas Nathan_Nathan
 			Otto Oliver Orvil
-			Paul_Paul Peter_Peter Preston Payton
+			Paul_Paul Peter_Peter Preston Payton Plymouth Pontiac Pronto
 			Rostwin Rohardt Roger Raymund Richardt Rainalt Rustin
 			Steppen_Stephen Sidmund Stahlrich Stahlgar Stanislaus
-			Thomm_Thomas Theodor_Theodore Todrich
+			Thomm_Thomas Theodor_Theodore Todrich Toronado Tahoe
 			Vincentz Viktor Virgil Velibor
 			Willelm Weyland Wayne Walther Woodward Wilbur Wernher Woitke
 			Zachary Zwentibold
 		}
 		female_names = {
-			Adela Annelise Angelica Ann_Anna Amanda Antonia_Antonia Aurora_Aurora Alyssa Adina
-			Brunhilde Belaire
-			Corvette Courtney Chelsea Celia Cheryl
-			Daniela Diane Deborah Dawn
-			Eleanor Erica Emma Ellen Eisenhilda Eisentrude
+			Adela Annelise Angelica Ann_Anna Amanda Antonia_Antonia Aurora_Aurora Alyssa Adina Aurora Achieva
+			Brunhilde Belaire Bravada Beretta
+			Corvette Courtney Chelsea Celia Cheryl Chevrolet_Chevy Chrysler Cabana Corsa
+			Daniela Diane Deborah Dawn Daytona
+			Eleanor Erica Emma Ellen Eisenhilda Eisentrude Electra
+			Firenza Fiesta
 			Grimhilt Gladys Gabriella_Gabriela Georgeanna
 			Hailey Helene_Helen Heather Hedwig
-			Isebella Idebelle
+			Isebella Idebelle Impala
 			Kathryn Kristina
 			Jennifer Julia_Julia Josefina_Josephina Jessa Janette
-			Lorelei Lenore
-			Mary_Mary Martha Margaret_Margaret Melissa Michelle Maxine
+			Lorelei Lenore Lumina 
+			Mary_Mary Martha Margaret_Margaret Melissa Michelle Maxine Mercury Malibu Mirada
 			Nichole Nannis Natalie
-			Paula
-			Rosa Rachel Rebecca_Rebecca Rita Regina Roxy
-			Sara_Sarah Susan_Susan Steffi Stahlhilda
+			Paula Polara
+			Rosa Rachel Rebecca_Rebecca Rita Regina Roxy Rainier Riviera
+			Sara_Sarah Susan_Susan Steffi Stahlhilda Skylark Saturn Sonoma
 			Todhilda
 			Violet Virginia
 			Willa
